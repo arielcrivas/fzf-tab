@@ -1,3 +1,8 @@
+> [!Important]
+> 
+> This is a fork for personal use of [fzf-tab](https://github.com/Aloxaf/fzf-tab).
+> 
+
 # fzf-tab
 
 [![CI](https://github.com/Aloxaf/fzf-tab/workflows/ci/badge.svg)](https://github.com/Aloxaf/fzf-tab/actions?query=workflow%3Aci)
